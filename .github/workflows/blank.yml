@@ -1,4 +1,4 @@
-name: VERUSCOIN
+name: SUGARCHAIN
 on: [push, pull_request]
 jobs:
   build:

